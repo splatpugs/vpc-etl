@@ -1,0 +1,2 @@
+names_id,rule_names,observation_name,source.meta,source.name
+1,Suspicious Web Traffic,Adversary Infrastructure Interaction,AWS_VPC_Flow,prod_webserver
